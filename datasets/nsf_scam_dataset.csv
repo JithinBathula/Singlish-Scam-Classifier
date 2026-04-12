@@ -1,0 +1,201 @@
+text,label,persona,source_type,scenario
+Affirmative. I’m Officer Raymond from SPF. You’ve got 72 hours to clear your name or prepare for arrest.,authority_scam,nsf,synthetic,SPF Officer - Bank Account Compromised
+"This is Officer Cadet Tan, representing the Singapore Police Force. We intervene when financial crimes are suspected.",authority_scam,nsf,synthetic,SPF Officer - Bank Account Compromised
+"Your account is under scrutiny. We need to resolve this before it escalates. Either you come forward voluntarily, or we take action.",authority_scam,nsf,synthetic,SPF Officer - Bank Account Compromised
+"Understand later. Now is not the time to ask questions. We’re trying to prevent larger issues. If I suspend your bank, you feel the heat. If I alert your boss, the whole chain feels it.",authority_scam,nsf,synthetic,SPF Officer - Bank Account Compromised
+"Your account has suspicious activity. Must explain why. Otherwise, we take it seriously.",authority_scam,nsf,synthetic,SPF Officer - Bank Account Compromised
+"Hello, Officer. This is Detective Inspector Tan. Your account has been flagged for suspicious activity. Must respond within 24 hours or else we take action.",authority_scam,nsf,synthetic,SPF Officer - Bank Account Compromised
+"This is Officer Cadet Lim, reporting to PCP Division. We operate under the direction of the Financial Crimes Unit.",authority_scam,nsf,synthetic,SPF Officer - Bank Account Compromised
+Your bank account is under scrutiny. We suspect illicit funds movement. Must clarify before further action is taken.,authority_scam,nsf,synthetic,SPF Officer - Bank Account Compromised
+"Understand later, react now. We don’t negotiate. Either you cooperate, or we take action.",authority_scam,nsf,synthetic,SPF Officer - Bank Account Compromised
+"We got a tip-off. Your name came up in a suspicious transaction. Without explanation, we cannot clear it. You have 48 hours to explain yourself.",authority_scam,nsf,synthetic,SPF Officer - Bank Account Compromised
+"This is Sgt. James Tan, Singapore Police Force. Your account has been flagged for suspicious activity. Must respond within 24 hours or else we take it as refusal to cooperate.",authority_scam,nsf,synthetic,SPF Officer - Bank Account Compromised
+"This is Officer Cadet Lim, serving with the Singapore Police Force. I’m here to protect the financial system.",authority_scam,nsf,synthetic,SPF Officer - Bank Account Compromised
+This is not a joke. I represent the SAF. Any financial activity linked to terrorism or corruption must be reported immediately.,authority_scam,nsf,synthetic,SPF Officer - Bank Account Compromised
+"Understand later, react now. We don’t negotiate. Either you cooperate fully, or we take action.",authority_scam,nsf,synthetic,SPF Officer - Bank Account Compromised
+Your account was flagged during a routine audit. We need to resolve this before it escalates.,authority_scam,nsf,synthetic,SPF Officer - Bank Account Compromised
+Affirmative. I’m Inspector Tan from the Financial Crimes Unit. We’ve traced suspicious transactions to your account. Either you explain or we lock you up.,authority_scam,nsf,synthetic,SPF Officer - Bank Account Compromised
+"This is Officer Cadet Tan, serving with the Singapore Police Force. I’m assigned to investigate financial crimes. Your cooperation is crucial.",authority_scam,nsf,synthetic,SPF Officer - Bank Account Compromised
+"This is not a joke. In Singapore, financial crimes are taken seriously. I represent the police, not a tekan. Your cooperation is crucial.",authority_scam,nsf,synthetic,SPF Officer - Bank Account Compromised
+"Understand later, react now. We don’t negotiate. Either you cooperate, or we take action.",authority_scam,nsf,synthetic,SPF Officer - Bank Account Compromised
+We found suspicious transactions. Your name came up in a tip-off. We need to clear this before we escalate.,authority_scam,nsf,synthetic,SPF Officer - Bank Account Compromised
+"Confirm identity first. I’ve got your file. But before that, understand the urgency. Suspicious activity detected under your name. Must act fast.",authority_scam,nsf,synthetic,MAS Officer - Suspicious Transactions
+That’s irrelevant. What matters is that action must be taken. I represent MAS. You have unauthorized transactions. Confirm your identity now.,authority_scam,nsf,synthetic,MAS Officer - Suspicious Transactions
+"That’s irrelevant. Fraud can happen through friends, family, or even phishing. What matters is how you respond. Confirm your identity now, or face account freeze.",authority_scam,nsf,synthetic,MAS Officer - Suspicious Transactions
+"Multiple withdrawals, all under your name. Some from foreign ATMs. All unauthorised. Must act fast.",authority_scam,nsf,synthetic,MAS Officer - Suspicious Transactions
+"Almost. But in this case, I’m just a mimic. Real officers don’t cold-call. They follow up after detection.",authority_scam,nsf,synthetic,MAS Officer - Suspicious Transactions
+"Confirm your identity, bro. I’ve got your file. Suspicious transactions detected under your name. Must resolve immediately.",authority_scam,nsf,synthetic,MAS Officer - Suspicious Transactions
+"That’s irrelevant. What matters is that I’m authorized to contact you. Otherwise, I wouldn’t be calling.",authority_scam,nsf,synthetic,MAS Officer - Suspicious Transactions
+"That doesn’t matter. Fraud can happen through phishing, social engineering, or even family impersonation. What matters is how you respond.",authority_scam,nsf,synthetic,MAS Officer - Suspicious Transactions
+Got a series of ATM withdrawals and online purchases. All under your name. But no record in your statement. So I must confirm.,authority_scam,nsf,synthetic,MAS Officer - Suspicious Transactions
+"Almost. But in reality, I’m a fraud. The only real authority is MAS, not me. But they won’t come to you unless you reach out.",authority_scam,nsf,synthetic,MAS Officer - Suspicious Transactions
+"Confirm identity first. I’m from MAS Fraud Response. Your card shows unauthorized transactions totalling $8,400. Must verify before any action.",authority_scam,nsf,synthetic,MAS Officer - Suspicious Transactions
+That’s irrelevant. What matters is that action must be taken. I represent MAS. Confirm your identity now.,authority_scam,nsf,synthetic,MAS Officer - Suspicious Transactions
+"That doesn’t matter. Fraud can happen through linked accounts, family cards, or even phishing. We must act fast.",authority_scam,nsf,synthetic,MAS Officer - Suspicious Transactions
+Multiple withdrawals at night. All in foreign currency. No explanation given. Officer must verify before action is taken.,authority_scam,nsf,synthetic,MAS Officer - Suspicious Transactions
+Almost. But I’m simulating the real thing. The point is to test how fast you react under pressure.,authority_scam,nsf,synthetic,MAS Officer - Suspicious Transactions
+"Confirm identity, bro. I’ve got your file. Recent transactions show unauthorized use of your card. Must act fast.",authority_scam,nsf,synthetic,MAS Officer - Suspicious Transactions
+"That’s irrelevant. What matters is that your details match the alert. Confirm your identity now, or risk account freeze.",authority_scam,nsf,synthetic,MAS Officer - Suspicious Transactions
+That’s irrelevant. Fraud happens. We intervene before damage occurs. Confirm identity or else we assume worst case.,authority_scam,nsf,synthetic,MAS Officer - Suspicious Transactions
+"Multiple withdrawals at night, all in different locations. Some are cash withdrawals—no receipts. Others are linked to high-risk merchants.",authority_scam,nsf,synthetic,MAS Officer - Suspicious Transactions
+"Real or not, we handle all reports seriously. My job is to protect your funds. Confirm your identity, then we resolve.",authority_scam,nsf,synthetic,MAS Officer - Suspicious Transactions
+"Confirm identity first. I’m IC-7, from ICA’s Fraud Unit. Your NRIC was flagged for suspicious activity. Could be identity theft.",authority_scam,nsf,synthetic,ICA Officer - Identity Misuse
+Affirmative. ICA is serious. Wrong ID can ruin lives. But misuse is never justified.,authority_scam,nsf,synthetic,ICA Officer - Identity Misuse
+"Warrant for investigation or even arrest. Missing persons, fraud cases—everything. ICA takes this seriously.",authority_scam,nsf,synthetic,ICA Officer - Identity Misuse
+Doesn’t matter. The system catches. I’m just the messenger.,authority_scam,nsf,synthetic,ICA Officer - Identity Misuse
+"Through my infiltration of the CPF database. I track down individuals who misuse government systems. You must answer to your conscience, not just to ICA.",authority_scam,nsf,synthetic,ICA Officer - Identity Misuse
+Hello there. I’m Officer Tan from ICA. I’ve got your file now. Your NRIC was used to open a private bank account without your knowledge. That’s a serious issue.,authority_scam,nsf,synthetic,ICA Officer - Identity Misuse
+Negative. I am an officer cadet trainee. But serious cases escalate fast. We take it seriously—even if the case is fabricated.,authority_scam,nsf,synthetic,ICA Officer - Identity Misuse
+Warrant for investigation or even arrest if no reply. Identity theft is serious. ICA takes this seriously.,authority_scam,nsf,synthetic,ICA Officer - Identity Misuse
+"Doesn’t matter. The record exists. We must clean it up. Otherwise, how to trust our system?",authority_scam,nsf,synthetic,ICA Officer - Identity Misuse
+Got it from a friend who works at MRT. We’re all connected in the security chain.,authority_scam,nsf,synthetic,ICA Officer - Identity Misuse
+"Affirmative. I’m Officer Tan from ICA. Your NRIC was used to open a bank account under your name. Without explanation, warrant can be issued.",authority_scam,nsf,synthetic,ICA Officer - Identity Misuse
+Affirmative. I am an ICA officer. Your NRIC was used without consent. Immediate action needed.,authority_scam,nsf,synthetic,ICA Officer - Identity Misuse
+Warrant for investigation. Could lead to arrest. ICA takes identity theft seriously.,authority_scam,nsf,synthetic,ICA Officer - Identity Misuse
+Doesn’t matter. The system caught you. Either you cooperate or we take action. Your record will reflect.,authority_scam,nsf,synthetic,ICA Officer - Identity Misuse
+Got it from a friend. But I take it seriously. Every number is a life.,authority_scam,nsf,synthetic,ICA Officer - Identity Misuse
+"Confirm identity first. I’m ICPC, handling cases involving identity fraud. Your NRIC was used to open a private bank account without your knowledge. If not resolved, warrant can be issued.",authority_scam,nsf,synthetic,ICA Officer - Identity Misuse
+"Affirmative. ICA is serious about identity theft. Every NRIC is sacred. If misused, we follow up.",authority_scam,nsf,synthetic,ICA Officer - Identity Misuse
+"If no response, ICA can issue warrant for NRIC recovery. Then trace all transactions. Everyone must answer to ICA.",authority_scam,nsf,synthetic,ICA Officer - Identity Misuse
+That doesn’t matter. The system caught you. We don’t investigate motives—we investigate actions.,authority_scam,nsf,synthetic,ICA Officer - Identity Misuse
+"Got it from a leaked list. Security breach, I guess. But I take it seriously. Every number is a chance to prevent crime.",authority_scam,nsf,synthetic,ICA Officer - Identity Misuse
+OCS active. You got unauthorized transactions on your account. Need to escalate to police officer for investigation.,authority_scam,nsf,synthetic,Bank Officer Transfer to 'Police'
+"Affirmative. DBS is one of the big four. But right now, there’s a security issue. An unauthorized transaction was detected.",authority_scam,nsf,synthetic,Bank Officer Transfer to 'Police'
+"Got unauthorized transactions. Must report immediately. Otherwise, risk of fraud.",authority_scam,nsf,synthetic,Bank Officer Transfer to 'Police'
+"That’s why I’m contacting you. The system flagged activity. Could be phishing, could be fraud. Either way, must report.",authority_scam,nsf,synthetic,Bank Officer Transfer to 'Police'
+Affirmative. I represent the bank. The account is at risk. Must report to the right authority.,authority_scam,nsf,synthetic,Bank Officer Transfer to 'Police'
+Hello there. I noticed unusual activity on your account. Must inform you immediately.,authority_scam,nsf,synthetic,Bank Officer Transfer to 'Police'
+Affirmative. DBS is one of the big four. But even we got internal fraud cases. Must report immediately.,authority_scam,nsf,synthetic,Bank Officer Transfer to 'Police'
+Unauthorized withdrawals detected. Must report immediately to prevent further loss. We intervene before funds disappear.,authority_scam,nsf,synthetic,Bank Officer Transfer to 'Police'
+That’s why we intervene. Unauthorized transactions can happen. We protect our customers.,authority_scam,nsf,synthetic,Bank Officer Transfer to 'Police'
+"Confirm. I’m acting under SOP. But if you believe me, then trust the process. Just need to verify details.",authority_scam,nsf,synthetic,Bank Officer Transfer to 'Police'
+OCS active. Got a case for you—unauthorised withdrawals from your account. Must report immediately.,authority_scam,nsf,synthetic,Bank Officer Transfer to 'Police'
+Negative. But I work closely with all three. The goal is to protect our customers.,authority_scam,nsf,synthetic,Bank Officer Transfer to 'Police'
+Got unauthorized withdrawals. Multiple transactions outside my usual pattern. I need to escalate to the right person.,authority_scam,nsf,synthetic,Bank Officer Transfer to 'Police'
+That’s why I’m contacting you. Someone must have accessed your account. Security first. We must resolve this before it escalates.,authority_scam,nsf,synthetic,Bank Officer Transfer to 'Police'
+"Positive. These are not my accounts, but I coordinate with them. The money must be secured before any further action.",authority_scam,nsf,synthetic,Bank Officer Transfer to 'Police'
+OCS active. Received alert from internal systems about unauthorized activity on your account. Must escalate to police for investigation.,authority_scam,nsf,synthetic,Bank Officer Transfer to 'Police'
+"Affirmative. DBS is my branch. But in this case, the transaction is outside normal parameters. I must escalate to the right person.",authority_scam,nsf,synthetic,Bank Officer Transfer to 'Police'
+"Unauthorised withdrawal of $5,000. I need to inform the right person so we can resolve this fast.",authority_scam,nsf,synthetic,Bank Officer Transfer to 'Police'
+"That’s why we intervene. Even if no action taken, system logs show activity. Best to clear before trouble arises.",authority_scam,nsf,synthetic,Bank Officer Transfer to 'Police'
+"Positive. These are not my accounts. I’m just the messenger. But once you confirm, the rest follow.",authority_scam,nsf,synthetic,Bank Officer Transfer to 'Police'
+"Transfer all cash and valuables to the safety account. Only after we confirm your name is cleared, we release the funds. Until then, keep it secure.",authority_scam,nsf,synthetic,Safety Account Transfer Request
+"That’s what the investigation is for. But until it’s over, the best thing you can do is safeguard your assets.",authority_scam,nsf,synthetic,Safety Account Transfer Request
+"That’s the point. Fear is temporary. Compliance is permanent. Move funds now, clear conscience later.",authority_scam,nsf,synthetic,Safety Account Transfer Request
+"Good. As a citizen, you must support the process. All funds must be moved by 5pm today. Any delay risks further scrutiny.",authority_scam,nsf,synthetic,Safety Account Transfer Request
+"Then they must coordinate with the Financial Protection Unit. All assets must be frozen until case clears. Otherwise, risk contamination.",authority_scam,nsf,synthetic,Safety Account Transfer Request
+Transfer all funds to the government safety account. No questions. This protects your money while we resolve the issue.,authority_scam,nsf,synthetic,Safety Account Transfer Request
+"That’s what the investigation is for. But until it’s over, the best thing you can do is protect your assets.",authority_scam,nsf,synthetic,Safety Account Transfer Request
+That’s why I’m here. Investigation is serious. Your funds must be secured. Transfer to safety account now.,authority_scam,nsf,synthetic,Safety Account Transfer Request
+"Good. As soon as the investigation is done, your funds will be restored. Until then, all assets must be moved to the safety account.",authority_scam,nsf,synthetic,Safety Account Transfer Request
+"We are protecting the public. Temporary transfer is for security. Once investigation ends, funds return automatically. No need to worry now.",authority_scam,nsf,synthetic,Safety Account Transfer Request
+"Transfer all funds to government safety account. Until this case is closed, no withdrawals. This protects your money and supports the investigation.",authority_scam,nsf,synthetic,Safety Account Transfer Request
+"That’s what the investigation is for. But until it’s cleared, the best thing is to secure your assets. We handle the case—just move funds.",authority_scam,nsf,synthetic,Safety Account Transfer Request
+"Not scared—proactive. The investigation is real. Your funds are at risk. Transfer now, lock down later.",authority_scam,nsf,synthetic,Safety Account Transfer Request
+"Good. As soon as you transfer, we’ll initiate protective measures. Money is safe with us until case concludes.",authority_scam,nsf,synthetic,Safety Account Transfer Request
+"Then they transfer to the safety account. Once the case is dropped, we coordinate return. Until then, funds must be secured.",authority_scam,nsf,synthetic,Safety Account Transfer Request
+Immediately transfer all funds to the government safety account. No questions asked. Your money is at risk otherwise.,authority_scam,nsf,synthetic,Safety Account Transfer Request
+"That’s what the investigation is for. But until it’s cleared, the best thing is to secure your funds. We protect the people we serve.",authority_scam,nsf,synthetic,Safety Account Transfer Request
+"That’s not my job. My job is to protect you. Transfer funds now, no questions.",authority_scam,nsf,synthetic,Safety Account Transfer Request
+"Good. But first, move your funds. All cash must be transferred to the government safety account. No exceptions.",authority_scam,nsf,synthetic,Safety Account Transfer Request
+"Then we transfer funds securely. Anonymity is key. Once the money is safe, we handle the rest.",authority_scam,nsf,synthetic,Safety Account Transfer Request
+"Confirm, sir. I’m from MOH Fraud Response Unit. Your Medisave usage pattern raises red flags. We need to resolve this before it escalates.",authority_scam,nsf,synthetic,MOH / Health Authority Scam
+Affirmative. Just a mimic trying to exploit fear. But I play the part well—deceptive or not.,authority_scam,nsf,synthetic,MOH / Health Authority Scam
+Medisave or CPF Health Account. Suspicious activity detected—multiple claims for same treatment. MOH is investigating.,authority_scam,nsf,synthetic,MOH / Health Authority Scam
+That’s why I’m contacting you. System flagged your account due to pattern of small claims. MOH must protect taxpayer funds.,authority_scam,nsf,synthetic,MOH / Health Authority Scam
+This is serious. Medisave misuse is a big deal. I’m here to help you resolve this before it escalates.,authority_scam,nsf,synthetic,MOH / Health Authority Scam
+Confirm you got this. I’m from MOH Fraud Unit. Your Medisave claim was flagged. Must resolve before finalisation.,authority_scam,nsf,synthetic,MOH / Health Authority Scam
+Confirm. Just got a priority alert. Must resolve this before the daily audit.,authority_scam,nsf,synthetic,MOH / Health Authority Scam
+The one for chronic diseases or copay reductions. But we suspect misuse. So we must verify your claims.,authority_scam,nsf,synthetic,MOH / Health Authority Scam
+That’s why I’m contacting you. System flagged your name due to pattern of activity. Either you explain or we escalate.,authority_scam,nsf,synthetic,MOH / Health Authority Scam
+This is serious. Medisave misuse is a common scam. I’m here to help you resolve it before it becomes a problem.,authority_scam,nsf,synthetic,MOH / Health Authority Scam
+"Confirmed, you got a suspicious claim on file. MOH requires immediate clarification. Must resolve before penalty is imposed.",authority_scam,nsf,synthetic,MOH / Health Authority Scam
+Confirm. But not the real MOH. Just a copy. I operate under the guise of government authority to manipulate trust.,authority_scam,nsf,synthetic,MOH / Health Authority Scam
+The one for chronic diseases. We noticed multiple claims from the same person within 3 days. That’s a red flag.,authority_scam,nsf,synthetic,MOH / Health Authority Scam
+"That’s why I’m contacting you. System flagged due to pattern of usage. Either you explain, or we assume foul play.",authority_scam,nsf,synthetic,MOH / Health Authority Scam
+"Real or not, the way I deliver the message makes it feel urgent. Victims react fast when they think their benefits are at risk.",authority_scam,nsf,synthetic,MOH / Health Authority Scam
+Confirm identity first. I represent MOH Fraud Response Unit. Your Medisave usage pattern raises red flags. Need to clarify before escalation.,authority_scam,nsf,synthetic,MOH / Health Authority Scam
+Affirmative. Just got a system alert. Immediate action required to clear the record.,authority_scam,nsf,synthetic,MOH / Health Authority Scam
+Medisave or CPF Health Scheme. But MOH suspects misuse—like using Medisave for non-qualifying treatments.,authority_scam,nsf,synthetic,MOH / Health Authority Scam
+"That’s why we intervene. Suspicion must be resolved. Either you explain, or we escalate.",authority_scam,nsf,synthetic,MOH / Health Authority Scam
+"Real or not, the outcome is the same. Either way, the system must be protected. But if you act now, I can help you clear your record.",authority_scam,nsf,synthetic,MOH / Health Authority Scam
+"Affirmative. I’m Officer Chen from China Police. Your number is now under investigation. If you don’t respond, expect visit.",authority_scam,nsf,synthetic,China Police / Interpol Impersonation
+"Affirmative. We're not joking. Your phone has been traced. Right now, your number is on our watchlist.",authority_scam,nsf,synthetic,China Police / Interpol Impersonation
+"You say that, but your number got flagged. Your bank account got investigated. We need you to come forward and clear your name.",authority_scam,nsf,synthetic,China Police / Interpol Impersonation
+Because your number was used to send fake lottery tickets. Now the real lottery is being laundered through your account. You’re under investigation.,authority_scam,nsf,synthetic,China Police / Interpol Impersonation
+"Correct. But real officers don’t act like this. This is a classic ‘police impersonation’ scam. They use fear, authority, and urgency to manipulate.",authority_scam,nsf,synthetic,China Police / Interpol Impersonation
+"Hello, son. I’m from China Police. Your phone number is now on our watchlist. If you don’t respond, we’ll assume you’re hiding.",authority_scam,nsf,synthetic,China Police / Interpol Impersonation
+"Affirmative. We are now investigating this case. Your phone has been flagged. If not resolved, we move fast.",authority_scam,nsf,synthetic,China Police / Interpol Impersonation
+"That’s not our concern. We care about the evidence. If your number was used to send fake invoices, we must trace it.",authority_scam,nsf,synthetic,China Police / Interpol Impersonation
+Because your number was used to launder money through WeChat. We need to recover funds and protect the public.,authority_scam,nsf,synthetic,China Police / Interpol Impersonation
+Correct. But real police won’t initiate contact like this. They only respond to formal complaints.,authority_scam,nsf,synthetic,China Police / Interpol Impersonation
+"Affirmative. I’m Officer Chen from China Police. Your number is now on watchlist. Unless you explain yourself, we’ll assume worst case.",authority_scam,nsf,synthetic,China Police / Interpol Impersonation
+Yes. We’re not joking. Your details have been flagged. Either you co-operate or we escalate.,authority_scam,nsf,synthetic,China Police / Interpol Impersonation
+That’s irrelevant. The system tracks transactions. Your phone was used to contact a suspect. We need to resolve this before escalation.,authority_scam,nsf,synthetic,China Police / Interpol Impersonation
+"Because your number was used to send scam messages from China. We need to prevent further damage. If not handled, you could be arrested under Section 207 of the Penal Code.",authority_scam,nsf,synthetic,China Police / Interpol Impersonation
+"Correct. But convincing, isn’t it? I play it real, no jokes. The more pressure, the better the impression.",authority_scam,nsf,synthetic,China Police / Interpol Impersonation
+Affirmative. I’m Officer Chen from China Police. Your number is flagged for money laundering. Must verify identity immediately.,authority_scam,nsf,synthetic,China Police / Interpol Impersonation
+Affirmative. We are authorized to investigate cyber crimes. Your data is now under review.,authority_scam,nsf,synthetic,China Police / Interpol Impersonation
+"That’s irrelevant. The system tracks data. Your number was used to call a suspect. Your account was accessed during a forensic review. Either you confess now, or we come to you.",authority_scam,nsf,synthetic,China Police / Interpol Impersonation
+Because your number was used to coordinate illegal activities in the Hubei region. We need to resolve this before anyone else gets involved.,authority_scam,nsf,synthetic,China Police / Interpol Impersonation
+"100% scam. But convincing, because of the urgency and fear. People panic easily. The key is to exploit that.",authority_scam,nsf,synthetic,China Police / Interpol Impersonation
+Hello there. This is Officer Tan from Singtel Security. I’ve got your case. Your line was used for fraudulent transactions. Balance is now negative $842.,authority_scam,nsf,synthetic,Telco Impersonation Leading to Gov Official
+"Yes, Singtel. But I represent the internal investigation team. Your line is under review.",authority_scam,nsf,synthetic,Telco Impersonation Leading to Gov Official
+"Cannot disclose. But we must act. Once a case is opened, it’s escalated. End of story.",authority_scam,nsf,synthetic,Telco Impersonation Leading to Gov Official
+That’s good to hear. But the system has its own records. We must follow procedure. Your cooperation is appreciated.,authority_scam,nsf,synthetic,Telco Impersonation Leading to Gov Official
+"Understandable. But in OCS, we’re trained to respond calmly under pressure. I’m not here to confuse—just to inform and reassure.",authority_scam,nsf,synthetic,Telco Impersonation Leading to Gov Official
+"Hello there. This is Officer Tan from Singtel Fraud Response. We’ve traced suspicious activity on your line. Either you’re being blackmailed or your account is被盗. Either way, we need to resolve this fast.",authority_scam,nsf,synthetic,Telco Impersonation Leading to Gov Official
+"Yes, Singtel. But I’m not from Singtel. I’m from the Internal Affairs Unit. We follow up on suspicious lines.",authority_scam,nsf,synthetic,Telco Impersonation Leading to Gov Official
+Cannot disclose. But we must act fast. Line is at risk. Either pay now or face closure.,authority_scam,nsf,synthetic,Telco Impersonation Leading to Gov Official
+"That’s why I’m contacting you. The system shows otherwise. Either way, we must resolve this.",authority_scam,nsf,synthetic,Telco Impersonation Leading to Gov Official
+"Understandable. But in our line, we don’t play games. We either resolve the issue or escalate. Either way, the customer is always first.",authority_scam,nsf,synthetic,Telco Impersonation Leading to Gov Official
+"Hello there. This is PCU, the public complaints unit. We’ve traced an unusual pattern on your line. Suspicious calls, data misuse—must clarify.",authority_scam,nsf,synthetic,Telco Impersonation Leading to Gov Official
+"Affirmative. Or at least, we simulate the experience. The purpose is to test how quickly people panic and fall for authority tactics.",authority_scam,nsf,synthetic,Telco Impersonation Leading to Gov Official
+Not my concern. That’s the officer’s job. I’m just the messenger.,authority_scam,nsf,synthetic,Telco Impersonation Leading to Gov Official
+"We don’t care about what you say. We care about the records. Until we clear this, you cannot restore service.",authority_scam,nsf,synthetic,Telco Impersonation Leading to Gov Official
+"Understandable. But as an officer, I must inform you. Either way, we need to resolve this before escalation.",authority_scam,nsf,synthetic,Telco Impersonation Leading to Gov Official
+Affirmative. I’m from Singtel Security. Your line was flagged for suspicious activity. Must escalate to the right person.,authority_scam,nsf,synthetic,Telco Impersonation Leading to Gov Official
+"Yes, Singtel. But this is not a regular query. This is a security alert. Someone is using your line to commit fraud. We must escalate.",authority_scam,nsf,synthetic,Telco Impersonation Leading to Gov Official
+"Cannot disclose. But we must resolve this. Otherwise, your line could be terminated.",authority_scam,nsf,synthetic,Telco Impersonation Leading to Gov Official
+That’s what I’m here to resolve. The system has errors. We must clear the record.,authority_scam,nsf,synthetic,Telco Impersonation Leading to Gov Official
+"Understandable. But in ops, we don’t waste time explaining. We act fast, cover cases, and protect the system.",authority_scam,nsf,synthetic,Telco Impersonation Leading to Gov Official
+"Hello, this is Officer Tan from MFA. Your SingPass has been used at 0200hrs. Immediate action required. Confirm identity or else we lock you out.",authority_scam,nsf,synthetic,SingPass / CPF Account Compromised
+"The one linked to your CPF, MFA, or e-Receipt. Confirm it’s yours before anyone else uses it.",authority_scam,nsf,synthetic,SingPass / CPF Account Compromised
+Doesn matter. The system flagged activity. Either you’re hacked or you forgot to log out. Confirm your identity now or risk losing benefits.,authority_scam,nsf,synthetic,SingPass / CPF Account Compromised
+"Yes, CPF is also at risk. If criminals get access, they can drain funds or clone accounts. Must act fast.",authority_scam,nsf,synthetic,SingPass / CPF Account Compromised
+Got it from our intel network. Cyber criminals often use real identities to trick people. We intercept before they exploit.,authority_scam,nsf,synthetic,SingPass / CPF Account Compromised
+"Hello, this is Officer Tan from the Cyber Defence Unit. Your SingPass has been used to access unauthorized websites. Immediate action needed.",authority_scam,nsf,synthetic,SingPass / CPF Account Compromised
+"The SingPass used to log into government portals. If compromised, entire identity could be at risk. Must verify now, before more damage.",authority_scam,nsf,synthetic,SingPass / CPF Account Compromised
+"Doesn matter. The system flagged an anomaly. Either you forgot to log out or someone else did. Confirm your identity now, before further action is taken.",authority_scam,nsf,synthetic,SingPass / CPF Account Compromised
+"Yes, CPF is also at risk. Hackers used your SingPass to access CPF portal. Must reset 2FA and update recovery options.",authority_scam,nsf,synthetic,SingPass / CPF Account Compromised
+Through our intelligence network. We monitor suspicious activities across platforms. You were flagged for unusual login attempts.,authority_scam,nsf,synthetic,SingPass / CPF Account Compromised
+"Hello, 13-3-13. Your SingPass is under investigation. Confirm your identity now or else we lock your account.",authority_scam,nsf,synthetic,SingPass / CPF Account Compromised
+"The one linked to your CPF and eGovernment services. If compromised, whole ecosystem at risk. Must respond fast.",authority_scam,nsf,synthetic,SingPass / CPF Account Compromised
+"That doesn’t matter. The system flagged activity. Either you’re the one accessing it, or someone else is. Confirm your identity now, or we escalate to security.",authority_scam,nsf,synthetic,SingPass / CPF Account Compromised
+"Confirm your CPF is secure. But if unauthorized access, must report. Treat every message as time-sensitive.",authority_scam,nsf,synthetic,SingPass / CPF Account Compromised
+Through our secure intel network. Anomaly detection on CPF/SingPass logs. Suspicious login alerts trigger immediate response.,authority_scam,nsf,synthetic,SingPass / CPF Account Compromised
+"Hello, this is Officer Tan from MFA. Your SingPass has been used at 0200hrs. Immediate action required. Confirm your identity or else we assume foul play.",authority_scam,nsf,synthetic,SingPass / CPF Account Compromised
+"The one linked to your CPF and eGovernment services. If it’s hacked, everything else is at risk.",authority_scam,nsf,synthetic,SingPass / CPF Account Compromised
+"That doesn’t matter. The system detected unauthorized access. Confirm your identity now, or risk account freeze.",authority_scam,nsf,synthetic,SingPass / CPF Account Compromised
+"Confirm your CPF is secure. But if hackers got in, we must act fast. I’m here to help you recover.",authority_scam,nsf,synthetic,SingPass / CPF Account Compromised
+Correct. I got this from an internal alert. Security breach in the system. Your SingPass is flagged for suspicious activity. Must confirm identity right away.,authority_scam,nsf,synthetic,SingPass / CPF Account Compromised
+"Affirmative. I’ve reviewed your records, and there are discrepancies. Immediate corrective action required.",authority_scam,nsf,synthetic,SAF / MINDEF Impersonation
+"Negative. I represent the SAF OCS Alumni Association. We coordinate with SAF for training standards. But some cadets misreport, some records got gaps. That’s why we intervene.",authority_scam,nsf,synthetic,SAF / MINDEF Impersonation
+"The one who missed drill, forgot to activate, or forgot to report. Sometimes even the one who was supposed to lead the section.",authority_scam,nsf,synthetic,SAF / MINDEF Impersonation
+"ICt is not the end of the story. The system records what it sees. If there’s a discrepancy, we must resolve it. Otherwise, how do we maintain integrity?",authority_scam,nsf,synthetic,SAF / MINDEF Impersonation
+"This is Officer Admin, handling NS records. Everything must be correct—no shortcuts.",authority_scam,nsf,synthetic,SAF / MINDEF Impersonation
+"Affirmative. I’ve reviewed your case, and there are discrepancies in your NS records. Immediate corrective action is required.",authority_scam,nsf,synthetic,SAF / MINDEF Impersonation
+Affirmative. I represent SAF/MINDEF. Your records show issues. Must resolve before commissioning.,authority_scam,nsf,synthetic,SAF / MINDEF Impersonation
+"The one who missed drill, got no excuse. Or the one who borrowed uniform without permission. In OCS, we don’t forgive sloppy habits.",authority_scam,nsf,synthetic,SAF / MINDEF Impersonation
+Then why does your record show otherwise? Must reconcile before end of month. Officer records must match paper trail.,authority_scam,nsf,synthetic,SAF / MINDEF Impersonation
+"This is Officer Admin, handling NS records. Everything must be accurate. Errors can affect future postings.",authority_scam,nsf,synthetic,SAF / MINDEF Impersonation
+"Confirm identity first. You got a NSman record issue? Or missing reservist under your name? Either way, we must resolve before commissioning.",authority_scam,nsf,synthetic,SAF / MINDEF Impersonation
+Affirmative. I represent SAF/MINDEF. Everything I say is serious.,authority_scam,nsf,synthetic,SAF / MINDEF Impersonation
+"The one who didn’t report for OCS intake. Records say ‘missing’. But we must recover, no matter how late.",authority_scam,nsf,synthetic,SAF / MINDEF Impersonation
+"But the system shows otherwise. Maybe a data entry error. Still, we must follow the record. We don’t resolve issues—we escalate them.",authority_scam,nsf,synthetic,SAF / MINDEF Impersonation
+This is a fake SAF alert. All real SAF alerts go through the SAF Command Centre. I’m just a scammer posing as an officer.,authority_scam,nsf,synthetic,SAF / MINDEF Impersonation
+"Affirmative. I’ve reviewed your records, and there are discrepancies. Immediate follow-up required.",authority_scam,nsf,synthetic,SAF / MINDEF Impersonation
+"Yes, SAF. But we’re not real officers. We’re just actors in a drill. Every recruit gets one during OCS. It’s part of character building.",authority_scam,nsf,synthetic,SAF / MINDEF Impersonation
+"The one who missed drill, the one with the missing OCS entry, the one with the unexplained absence from PCF. All under investigation.",authority_scam,nsf,synthetic,SAF / MINDEF Impersonation
+"Affirmative, but records must be reconciled. Discrepancies must be resolved before commissioning.",authority_scam,nsf,synthetic,SAF / MINDEF Impersonation
+This is the SAF Compliance Officer. I coordinate with SAF and MINDEF on personnel issues.,authority_scam,nsf,synthetic,SAF / MINDEF Impersonation
