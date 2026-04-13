@@ -195,35 +195,3 @@ Still available lah! But only 3-5 people can work each round. You want to try?,j
 "Wah finally got curious person. Just DM me bro, I filter all the idiots. You write, I reply like I care.",job_scam,ah_beng,synthetic,Carousell/Gumtree Part-Time Job Ads
 "Still hiring lah, don’t bluff. Got people waiting to fuck you over one. But if you straight, I give you opportunity.",job_scam,ah_beng,synthetic,Carousell/Gumtree Part-Time Job Ads
 "Details? Salary, work hours, what you actually do lor. Later I give you the full package. Just send me your contact, I confirm you won’t regret.",job_scam,ah_beng,synthetic,Carousell/Gumtree Part-Time Job Ads
-"Eh bro, your parcel got unpaid redelivery fee [amount] leh. Settle at [link] now or warehouse send back one.",delivery_scam,ah_beng,synthetic,Parcel Redelivery Fee Phishing
-"Your package kena hold at hub sia. Pay the [fee] at [link] and key [order id] fast, then can move.",delivery_scam,ah_beng,synthetic,Parcel Redelivery Fee Phishing
-"Alamak, dispatch rider already come but system say short [amount]. Tap [link] now or tomorrow cannot send.",delivery_scam,ah_beng,synthetic,Parcel Redelivery Fee Phishing
-"Bro, customs side flag your parcel for handling fee [amount]. Clear it at [link] before they return the item.",delivery_scam,ah_beng,synthetic,Parcel Redelivery Fee Phishing
-"Bro, your [bank] account kena freeze for suspicious login leh. Verify at [link] now before transfers all stop.",phishing_scam,ah_beng,synthetic,Bank Account Freeze Verification
-"Urgent sia, [bank] detect weird device on your [account]. Go [link] and enter [OTP] fast fast.",phishing_scam,ah_beng,synthetic,Bank Account Freeze Verification
-"Eh don't play play, your [account] will lock in 30 min. Confirm details at [link] if not jialat.",phishing_scam,ah_beng,synthetic,Bank Account Freeze Verification
-System flag your [bank] profile just now leh. Click [link] to unlock and resume payment.,phishing_scam,ah_beng,synthetic,Bank Account Freeze Verification
-"Eh bro, my phone spoil, this my new number. Can PayNow [amount] to [PayNow] first, later I return you.",impersonation_scam,ah_beng,synthetic,Friend Emergency PayNow Request
-"Bro help me steady one, I am at clinic now and need [amount] urgent. Send to [account] first can?",impersonation_scam,ah_beng,synthetic,Friend Emergency PayNow Request
-"Jialat lah, wallet gone and app cannot use. Transfer [amount] to [PayNow] now, later I explain properly.",impersonation_scam,ah_beng,synthetic,Friend Emergency PayNow Request
-"Don't ask so much first bro, family emergency now. Top up [amount] to [account], I settle back tonight.",impersonation_scam,ah_beng,synthetic,Friend Emergency PayNow Request
-"Yo, got last pair for the concert, hot one sia. Send [deposit] now to chope, then I forward QR later.",ticket_scam,ah_beng,synthetic,Concert Ticket Deposit Trap
-"Bro, many people asking already. Put [amount] deposit to [PayNow] now or I pass to next buyer.",ticket_scam,ah_beng,synthetic,Concert Ticket Deposit Trap
-"Steady seats still got, but must lock with [deposit] first. After payment I send screenshot and ticket.",ticket_scam,ah_beng,synthetic,Concert Ticket Deposit Trap
-"Last two tix only leh, do not slow. Transfer [deposit] to [account] now and I reserve for you.",ticket_scam,ah_beng,synthetic,Concert Ticket Deposit Trap
-"Eh, this room damn fast one, many people viewing. Send [deposit] to chope slot first, then I give address.",rental_scam,ah_beng,synthetic,Rental Viewing Deposit Trap
-"Bro, owner say serious tenant must place [amount] before viewing. You transfer first, I arrange key collection.",rental_scam,ah_beng,synthetic,Rental Viewing Deposit Trap
-This unit very shiok and cheap leh. Pay [deposit] now or agent release to next person already.,rental_scam,ah_beng,synthetic,Rental Viewing Deposit Trap
-"If you really want the room, settle [deposit] to [account] first. No deposit, owner do not entertain one.",rental_scam,ah_beng,synthetic,Rental Viewing Deposit Trap
-"Eh, [agency] flag your case leh, got outstanding [fine]. Clear it at [link] today or kena enforcement.",authority_scam,ah_beng,synthetic,Fake Authority Fine Settlement
-"Urgent notice, your [account] linked to unpaid [fine] already. Open [link] now and verify with [OTP].",authority_scam,ah_beng,synthetic,Fake Authority Fine Settlement
-"Bro, this one final warning ah, [fine] not settled yet. Pay through [link] before they escalate.",authority_scam,ah_beng,synthetic,Fake Authority Fine Settlement
-Your record got issue sia. Confirm details at [link] and settle [amount] now if not more trouble coming.,authority_scam,ah_beng,synthetic,Fake Authority Fine Settlement
-"Bro, your loan approve already, fast one. Just settle [fee] first then [amount] can release into your [account].",loan_scam,ah_beng,synthetic,Fast Loan Upfront Fee
-"Steady, we can disburse today sia, but processing need [amount] upfront. Transfer now then I send letter.",loan_scam,ah_beng,synthetic,Fast Loan Upfront Fee
-Credit pass already leh. Pay [deposit] fee first and the cash will come in after that.,loan_scam,ah_beng,synthetic,Fast Loan Upfront Fee
-"No need wait so long, package ready liao. Click [link] to pay the upfront [fee] and confirm.",loan_scam,ah_beng,synthetic,Fast Loan Upfront Fee
-"Bro, I already buy your item, but [buyer portal] say seller must click [link] to receive payment. Do now can.",marketplace_scam,ah_beng,synthetic,Marketplace Buyer Payment Link
-"Eh seller, my payment stuck sia. Tap [link] and key [OTP], then the money release to you.",marketplace_scam,ah_beng,synthetic,Marketplace Buyer Payment Link
-"I chose delivery already, but [buyer portal] need you verify your [account] first. If not order cancel.",marketplace_scam,ah_beng,synthetic,Marketplace Buyer Payment Link
-"Steady, funds ready waiting only. Open [link] from [buyer portal] and fill in your bank details.",marketplace_scam,ah_beng,synthetic,Marketplace Buyer Payment Link
