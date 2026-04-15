@@ -1,0 +1,26 @@
+[
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Bro later free or not?"
+      },
+      {
+        "role": "assistant",
+        "content": "Can lah, after dinner then we meet."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "You booking out this weekend?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hopefully can, if not kena extra duties again."
+      }
+    ]
+  }
+]

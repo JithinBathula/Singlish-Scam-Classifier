@@ -1,0 +1,3 @@
+text,label,persona,source_type,scenario
+"Eh bro, later we makan at the hawker centre ah?",not_scam,ah_beng,synthetic,Food and Makan
+"Urgent notice: your bank account has been suspended, verify now.",authority_scam,nsf,synthetic,China Police / Interpol Impersonation

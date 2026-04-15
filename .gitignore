@@ -1,4 +1,10 @@
 .env
+.venv/
+.claude/
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+artifacts/
 model.zip
 /model
 /datasets
